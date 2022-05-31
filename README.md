@@ -95,7 +95,7 @@ is Mogo Financial's App platform. Mogo has streamlined the issues that Canadians
 Mogo Finance Technology Inc. App (which is compatible for IOS and Android devices as well as site applications on google play and Apple store.) Allows individuals to download the app, create an account and be a valued user in under 3 minutes as advertised.
 After performing  a self application to become a Mogo user it is quite evident this app is extremely useful, productive and technically advanced to handle all financial issues in the boasted 3 minutes. Once an individual becomes a user they are instantly granted access to six financial tools they can utilize to create a better plan toward a new future of Financial freedom. These tools are though offered by other companies are all not in one app. this is what makes Mogo Financial very unique
 
-Mogo's platform tools
+Mogo Finacial's platform tools
 
 ### Mogo credit score
 - allows to check your credit score in real time as well as           compare your ratings and scores from previous month to month to gage your performance
@@ -144,7 +144,7 @@ with data breaches happening everyday with devastating results financially and c
 - there is limit of $1,000,000.00 that can be converted in bitcoin.
 
 
-<pre>Which technologies are they currently using, and how are they implementing them? </pre>
+* Which technologies are they currently using, and how are they implementing them? 
 
 Mogo Finance Technology Inc.is using up to 47 different tech products and services and 68 diffent technologies  to provide a streamline fortified service to thier users.
 
@@ -192,7 +192,8 @@ Mogo Finance Technology Inc.is mainly in the business of Finance Services but be
 * Blockchain and Cryptocurrencies
 * Open Banking
 
-<mark>What have been the major trends and innovations of this domain over the last 5-10 years?</mark?
+<span style="background-color: #FFFF00">What have been the major trends and innovations of this domain over the last 5-10 years?</span>
+
 
 Some of the trends in Finace services have been
 1) Digital Transformation
@@ -261,7 +262,7 @@ Mogo now has another metric to measure success through social media platforms am
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-
+```
 
 
 
@@ -282,7 +283,7 @@ Mogo now has another metric to measure success through social media platforms am
 
 * [Crunchbase](https://www.crunchbase.com/organization/mogo-finance-technology)
 
-* [ivey](https://www.ivey.uwo.ca/media/3784356/mogo-profile.pdf)
+*[ivey](https://www.ivey.uwo.ca/media/3784356/mogo-profile.pdf)
 
 * [Morningstar](https://www.morningstar.com/stocks/xnas/mogo/quote)
 
@@ -315,6 +316,22 @@ Mogo now has another metric to measure success through social media platforms am
 
 * [Crunchbase](https://www.crunchbase.com/organization/mogo-finance-technology)
 
+* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
+
+* [TechCrunch](https://techcrunch.com/tag/fintech/)
+
+* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
+
+* [Built In](https://builtin.com/fintech)
+
+* [FinTech Weekly](https://www.fintechweekly.com/)
+
+* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
+
+* [Stackshare](https://stackshare.io/)
+
+
+* [Angelist](https://angel.co/finance-technology)
 
 
 
