@@ -144,7 +144,7 @@ with data breaches happening everyday with devastating results financially and c
 - there is limit of $1,000,000.00 that can be converted in bitcoin.
 
 
-* Which technologies are they currently using, and how are they implementing them? 
+<pre>Which technologies are they currently using, and how are they implementing them? </pre>
 
 Mogo Finance Technology Inc.is using up to 47 different tech products and services and 68 diffent technologies  to provide a streamline fortified service to thier users.
 
